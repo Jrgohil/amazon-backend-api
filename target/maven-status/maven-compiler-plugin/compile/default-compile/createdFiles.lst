@@ -1,0 +1,14 @@
+com\juhi\amazonapi\Services\UserService.class
+com\juhi\amazonapi\Models\ProductRepository.class
+com\juhi\amazonapi\Models\ProductModel.class
+com\juhi\amazonapi\Models\UserModel.class
+com\juhi\amazonapi\util\JwtUtil.class
+com\juhi\amazonapi\AmazonApiApplication.class
+com\juhi\amazonapi\Models\UserRepository.class
+com\juhi\amazonapi\Controllers\UserController.class
+com\juhi\amazonapi\CustomizedResponse.class
+com\juhi\amazonapi\Services\ProductService.class
+com\juhi\amazonapi\Controllers\ProductController.class
+com\juhi\amazonapi\filter\JwtFilter.class
+com\juhi\amazonapi\Controllers\AuthController.class
+com\juhi\amazonapi\config\SecurityConfig.class
